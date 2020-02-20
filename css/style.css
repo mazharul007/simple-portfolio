@@ -1,0 +1,32 @@
+
+body{
+    font-family: 'Allerta', sans-serif;
+    margin:0px;
+}
+h1{
+    font-size: 50px;  
+}
+.name_highlight{
+    color: lightskyblue;
+}
+.half-width{
+    margin-left: 5%;
+    padding: 2%;
+    width: 40%;
+    float: left;
+    border-radius: 2px solid black;
+   
+}
+.half-width img{
+    width: 85%;
+}
+.txt-context{
+    text-align: justify;
+}
+.top-context{
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
